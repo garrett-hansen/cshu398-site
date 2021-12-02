@@ -38,12 +38,12 @@ I’m really glad that I chose to do research into using this program and the un
 
 
 <h2 align="center"><b>Sources</b></h2>
-[1] https://openai.com/blog/better-language-models/
+[1] [https://openai.com/blog/better-language-models/](https://openai.com/blog/better-language-models/)
 
-[2] https://github.com/CodedotAl/code-clippy-vscode
+[2] [https://github.com/CodedotAl/code-clippy-vscode](https://github.com/CodedotAl/code-clippy-vscode)
 
-[3] https://copilot.github.com/#faq-how-good-is-github-copilot
+[3] [https://copilot.github.com/#faq-how-good-is-github-copilot](https://copilot.github.com/#faq-how-good-is-github-copilot)
 
-[4] https://huggingface.co/pricing
+[4] [https://huggingface.co/pricing](https://huggingface.co/pricing)
 
 
