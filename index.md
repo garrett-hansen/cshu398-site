@@ -22,11 +22,11 @@ Content of the file - the program creates a context of the file by reading it’
 Length of the file - Because the program uses the entire file context, I noticed that the code suggestions became less and less accurate and more gibberish in longer files of code. I observed a sharp decrease in the accuracy of suggestions in files more than a couple hundred lines of code.
 Complexity of desired code - I found that the accuracy of the suggestions depended on how many desired inputs and operations a function should need to have. The program consistently struggled with suggesting accurate output for even well-described but lengthy or complex functions.
 
-<h2 align="center">Concluding Thoughts</h2>
+<h2 align="center"><b>Concluding Thoughts</b></h2>
 I’m really glad that I chose to do research into using this program and the underlying information behind it and other programs like it. Natural language processing is a pretty cool field in Computer Science that I don’t have a lot of knowledge about, so it was nice to get my hands on a product of it and play with it and see how it works. Admittedly I found the program too unreliable to be worth using for any serious development in it’s current state, especially given the amount of effort necessary to even get the program running and how early in development it is, but it could potentially be useful as a learning tool for anyone new to programming. I imagine that there could be some sort of application for GPT-Code-Clippy or programs like it in controlled environments to help new programmers out, since they usually start out by working on very simple programs. This sort of program could be used by new programmers to produce code based on what they’d like to do, which might help generate real code samples of work that they’d like so that they can learn by example. 
 
 
-<h2 align="center">Sources</h2>
+<h2 align="center"><b>Sources</b></h2>
 [1] https://openai.com/blog/better-language-models/
 
 [2] https://github.com/CodedotAl/code-clippy-vscode
