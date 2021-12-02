@@ -30,8 +30,11 @@ I’m really glad that I chose to do research into using this program and the un
 
 <h2 align="center">Sources</h2>
 [1] https://openai.com/blog/better-language-models/
+
 [2] https://github.com/CodedotAl/code-clippy-vscode
+
 [3] https://copilot.github.com/#faq-how-good-is-github-copilot
+
 [4] https://huggingface.co/pricing
 
 
